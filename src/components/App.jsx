@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <button onClick={() => {}}>Send notification to FCM server</button>
+    <button onClick={() => {}}>Send notification to FCM server </button>
   )
 }
 
